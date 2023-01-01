@@ -22,7 +22,7 @@ specialized MERN stack developer.
 ⚡ Quick learner<br>
 💬 Ask me about Mongodb, express, React, Node, Javascript, HTML, CSS, DSA<br>
 
-📫 How to reach me: biping579@gmail.com.com<br>
+📫 How to reach me: biping579@gmail.com<br>
 
 ⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/1-pt3hhNlb_95k2NZCbouelh2FPeDgXe5/view?usp=share_link)<br>
 
@@ -52,15 +52,15 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
 <h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
 <hr>
 <p align="left">
-<a href="https://github.com/gaurav62472744">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gaurav62472744&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gaurav62472744&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/bipin579">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bipin579&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bipin579&layout=compact&langs_count=8&theme=algolia"/>
   <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gaurav62472744&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bipin579&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
 </a>
 </p>
 <hr>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gaurav62472744&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bipin579&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
