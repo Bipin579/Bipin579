@@ -72,7 +72,8 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bipin579&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2 align="left">Github Metrics </h2>
 
 
-![Metrics](https://metrics.lecoq.io/bipin579?template=classic&base.indepth=true&isocalendar=1&people=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=31&people.identicons=false&people.identicons.hide=false&people.size=53&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FCalcutta&config.octicon=true&config.display=large)
+
+
+
