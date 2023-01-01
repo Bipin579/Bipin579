@@ -71,3 +71,5 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Github_white.svg' alt='github' height='40' width='60'>](https://github.com/bipin579)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg' alt='linkedin' height='40' width='60'>](www.linkedin.com/in/bipin-singh2323)   
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bipin579&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![snake gif](https://github.com/bipin579/bipin579/blob/output/github-contribution-grid-snake.svg) 
