@@ -64,3 +64,10 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bipin579&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+<h2 align="left">Social Media </h2>
+
+
+[<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Github_white.svg' alt='github' height='40' width='60'>](https://github.com/bipin579)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg' alt='linkedin' height='40' width='60'>](www.linkedin.com/in/bipin-singh2323)   
+
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishek1337chatterjee&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
