@@ -88,7 +88,7 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bipin579&column=-1&theme=chalk&rank=-?&margin-w=15)
+[<img src = "https://github-profile-trophy.vercel.app/?username=bipin579&column=-1&theme=chalk&rank=-?&margin-w=15" />]
 
 <h2 align="left">Social Media </h2>
 
