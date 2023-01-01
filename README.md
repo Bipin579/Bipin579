@@ -72,4 +72,4 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bipin579&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/bipin579/bipin579/blob/output/github-contribution-grid-snake.svg) 
+![snake gif][(https://github.com/bipin579/bipin579/blob/output/github-contribution-grid-snake.gif) ]
