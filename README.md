@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I am Bipin Singh</h1>
 
+<h1 align="center">Hi 👋, I am Bipin Singh</h1>
+![Bipin Kumar](https://user-images.githubusercontent.com/110052834/210883759-5b5722a6-26a6-47e2-829a-90eacd356d72.gif)
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
 </div>
