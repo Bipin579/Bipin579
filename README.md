@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I am Bipin Singh</h1>
+<div align="center>
+      <video src="https://www.canva.com/design/DAFW1HO5cs4/G1n6tx0xJQECeh5xOUXGuA/watch" />
+</div>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
 </div>
