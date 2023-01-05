@@ -1,4 +1,6 @@
-![Bipin Kumar](https://user-images.githubusercontent.com/110052834/210883759-5b5722a6-26a6-47e2-829a-90eacd356d72.gif)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/110052834/210883759-5b5722a6-26a6-47e2-829a-90eacd356d72.gif" width="100%" />
+</div>
 <h1 align="center">Hi 👋, I am Bipin Singh</h1>
 
 <div align="center">
