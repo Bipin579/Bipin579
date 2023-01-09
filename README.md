@@ -74,10 +74,13 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
 </div> 
 <hr>
 
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bipin579&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin579&hide_border=true&theme=radical" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bipin579&column=-1&theme=chalk&rank=-?&margin-w=25)
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
