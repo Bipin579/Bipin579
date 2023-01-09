@@ -19,16 +19,14 @@ specialized MERN stack developer.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Good Tech Skills<br>
+
 🌱 I’m currently learning Full Stack Web Development<br>
-💬 Ask me about Coding...<br>
-👯 Interested in ai technologies...<br>
+
 👯 Self Motivated<br>
+
 ⚡ Quick learner<br>
-💬 Ask me about Mongodb, express, React, Node, Javascript, HTML, CSS, DSA<br>
 
 📫 How to reach me: biping579@gmail.com<br>
-
-⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/1-pt3hhNlb_95k2NZCbouelh2FPeDgXe5/view?usp=share_link)<br>
 
 Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/)
 
@@ -40,13 +38,6 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
     <a href="https://bipin579.github.io/" target="blank">Portfolio</a>
   </li>
 </ul>
-
-
-
-
-
-
-
 
 <h3 align="center">🛠 &nbsp;Tech Stack </h3>
 
@@ -79,13 +70,6 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
  </div>
 </div>
  
-
-<!--    -->
-
-<!--    --> 
-
-
-
 
 </div> 
 <hr>
