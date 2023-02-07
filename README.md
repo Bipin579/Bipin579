@@ -38,7 +38,9 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
     <a href="https://bipin579.github.io/" target="blank">Portfolio</a>
   </li>
 </ul>
-
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <h3 align="center">🛠 &nbsp;Tech Stack </h3>
 
 
@@ -72,7 +74,9 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
  
 
 </div> 
-<hr>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ## 📈 Stats
 <p align="center">
@@ -80,9 +84,9 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin579&hide_border=true&theme=radical" />
 </p>
 
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<br>
 
 
 <h2 align="left">Social Media </h2>
@@ -91,8 +95,9 @@ Want to know more about me? [Check out My Portfolio](https://bipin579.github.io/
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bipin579&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
